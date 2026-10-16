@@ -1,7 +1,4 @@
-# B2B-accounts-receivable-analytics
 # 📊 B2B Accounts Receivable & Working Capital Intelligence (90-Day Diagnostic)
-
-![Dashboard Preview](assets/dashboard_preview.png)
 
 ## 📌 Executive Summary
 An end-to-end financial analytics and credit risk diagnostic evaluating **90 consecutive days** of B2B invoicing transactions across 12 corporate client accounts. 
